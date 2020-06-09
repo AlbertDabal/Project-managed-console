@@ -1,0 +1,7 @@
+SMD4	8
+pion	1
+pc230v	1
+pc	14
+etercon	14
+rozdzielnia	1
+rj45	1

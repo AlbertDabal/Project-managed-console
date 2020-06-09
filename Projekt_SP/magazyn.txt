@@ -1,0 +1,10 @@
+SMD1	150
+SMD2	100
+SMD3	170
+SMD4	140
+pc230V	100
+pc	500
+pion	20
+rodzelnia	20
+RJ45	70
+etercon 500

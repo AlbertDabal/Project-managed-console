@@ -1,0 +1,7 @@
+SMD1	16
+pion	1
+pc230v	1
+pc	30
+etercon	29
+rozdzielnia	1
+rj45	2
